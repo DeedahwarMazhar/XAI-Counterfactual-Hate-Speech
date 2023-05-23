@@ -4,9 +4,7 @@ README
 
 **************************************************************************************************************************************************************************************************************************************************
 
-Repository for the paper "Toward Inclusive Online Environments: Counterfactual-Inspired XAI for Detecting and Interpreting Hateful and Offensive Tweets"
-
-NOTE: This is a dummy account to anonymize the author information in line with conference policy on submission.
+Repository for the paper "Toward Inclusive Online Environments: Counterfactual-Inspired XAI for Detecting and Interpreting Hateful and Offensive Tweets" accepted for publication at the 1st World Conference on Explainable Artificial Intelligence 2023, Lisbon, Portugal. 
 
 1.	The data used in the paper to obtain the results is also uploaded with due credit to the "Hate Speech and Offensive Language Dataset".
 
